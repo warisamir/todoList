@@ -1,2 +1,2 @@
-# Todo
-Todo-List using js,html and css
+# Todo App
+Todo-List using simply js,html and css
